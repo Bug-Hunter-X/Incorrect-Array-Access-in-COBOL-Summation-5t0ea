@@ -1,0 +1,1 @@
+This repository demonstrates a common error in COBOL array handling: incorrect access to array elements. The code aims to calculate the sum of numbers from 1 to 10 but fails due to improper indexing. The solution shows the corrected version and explains the mistake.
